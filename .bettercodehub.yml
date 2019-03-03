@@ -4,5 +4,5 @@ exclude:
   - /docs/.*
   - /lib/.*
   - /samples/.*
- include:
+include:
   - /src/.*
